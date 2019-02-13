@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Problem Statement}{3}{0}{1}
+\beamer@sectionintoc {2}{Steps to solve}{4}{0}{2}
+\beamer@sectionintoc {3}{Solution}{5}{0}{3}
+\beamer@sectionintoc {4}{Solution ...}{6}{0}{4}
+\beamer@sectionintoc {5}{Code}{6}{0}{5}
+\beamer@sectionintoc {6}{Figure}{8}{0}{6}
